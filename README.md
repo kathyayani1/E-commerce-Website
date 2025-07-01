@@ -1,37 +1,37 @@
-# 🛍️ E-Commerce Website
+# Getting Started with Create React App
 
-A responsive and modern e-commerce website built using **React**. This project allows users to browse products, add items to cart, and proceed to checkout — simulating a simple shopping experience.
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
----
+## Available Scripts
 
-## 🚀 Features
+In the project directory, you can run:
 
-- 🛒 Add to Cart & Remove from Cart
-- 📦 Product Listing from Local JSON or API
-- 🧮 Real-time Cart Total Calculation
-- 🌐 Responsive Design for All Devices
-- 💄 Clean UI with CSS styling
+### `npm start`
 
----
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-## 🛠️ Built With
+The page will reload if you make edits.\
+You will also see any lint errors in the console.
 
-- **React JS**
-- **React Router DOM** (for page navigation)
-- **useState / useEffect Hooks**
-- **CSS** or **Tailwind CSS**
+### `npm test`
 
----
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
+### `npm run build`
 
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
+### `npm run eject`
 
-## 📦 Getting Started
+**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
-Clone the project:
+If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-```bash
-git clone https://github.com/kathyayani1/E-commerce-Website.git
-cd E-commerce-Website
-npm install
-npm start
+## Learn More
+
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+
+To learn React, check out the [React documentation](https://reactjs.org/).
